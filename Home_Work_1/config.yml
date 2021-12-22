@@ -1,0 +1,8 @@
+home_work_1:
+  url: https://robot-dreams-de-api.herokuapp.com
+  endpoint_api: /out_of_stock
+  date_start: "2021-01-01"
+  date_end: "2021-12-31"
+  endpoint_auth: /auth
+  username: rd_dreams
+  password: djT6LasE
